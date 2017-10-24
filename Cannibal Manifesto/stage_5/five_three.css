@@ -1,0 +1,21 @@
+
+
+
+p {
+    position: fixed;
+    font-size: 30px;
+    color: white;
+}
+
+div {
+    font-family: arial;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+    
+}
+
+#divone {
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+    color: red
+}

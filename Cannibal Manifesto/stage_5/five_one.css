@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+}
+
+p {
+    
+    position: fixed;
+}
+h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color: red;
+    
+}
+
+div {
+       text-align: center;
+    padding: 300px;
+     font-family: 'Gloria Hallelujah', cursive;
+    color: red;
+    font-size: 40px;
+}
+
+a {
+    color: red;
+}
+
+#Cannabilism {
+    text-align: center;
+    padding: 300px;
+}

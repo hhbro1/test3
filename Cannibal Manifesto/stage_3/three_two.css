@@ -1,0 +1,40 @@
+p {
+    
+      border: 1px solid black;
+    width: 100px;
+    
+    
+}
+#pone {
+    
+    border: 1px solid black;
+    width: 100px;
+}
+
+#ptwo {
+      border: 1px solid black;
+    width: 100px;
+    padding-left: 100px
+    
+}
+
+#pthree {
+      border: 1px solid black;
+    width: 100px;
+    padding-left: 200px;
+}
+
+#pseven {
+    
+    padding-right: 300px;
+}
+
+#peight {
+    
+    padding-right: 400px;
+}
+
+#pnine {
+    
+    padding-right: 500px;
+}

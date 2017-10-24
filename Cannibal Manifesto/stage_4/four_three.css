@@ -1,0 +1,47 @@
+
+
+h4 {
+    font-family: monospace;
+    letter-spacing: -2px;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+#divfive {
+    font-family: arial;
+    letter-spacing: -6px;
+    position: fixed;
+    text-transform: uppercase;
+}
+
+#divone {
+        font-size: 40px;
+    font-family: arial;
+    font-style: italic;
+}
+
+#divtwo {
+        font-size: 40px;
+    font-family: fancy;
+    font-style: italic;
+}
+
+#divthree {
+        font-size: 40px;
+    font-family: arial;
+    font-style: italic;
+}
+
+#divfour {
+        font-size: 40px;
+    font-family: monospace;
+    font-style: normal;
+}
+
+#hfourbottom {
+       font-size: 28px;
+    font-family: arial;
+    padding-left: 6300px;
+    padding-bottom: 500px;
+    
+}
